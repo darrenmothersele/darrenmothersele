@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Software developer. Web developer. Electronic Musician. DJ. Inventor of Cyril programming language.
+
 <!--
 **darrenmothersele/darrenmothersele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![music](cover1.jpg) | ![apps](cover2.jpg) | ![web](cover3.jpg)
+---------------------|---------------------|----------------------
+
+I’m a software developer with over 20 years experience, based in London, Europe. 
+I specialise in building production-grade, scalable, frontend architectures.
+I have built web apps, mobile apps, and smart TV apps. Check out my [projects](https://daz.is/projects/index.html) page for more details.
